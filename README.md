@@ -1,7 +1,7 @@
 # My own data science roadmap
 Math
-|Book|Link|Status
-|-|-|
+|Book|Link|Status|
+|-|-|-|
 |i know you| yes|
 
 
